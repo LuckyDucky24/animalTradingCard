@@ -1,2 +1,2 @@
 # animalTradingCard
-I used a blank prototype and added design using CSS.
+I used a blank template and added design using CSS.
